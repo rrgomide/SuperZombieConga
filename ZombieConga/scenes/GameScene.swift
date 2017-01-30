@@ -761,24 +761,4 @@ class GameScene: SKScene {
       height: playableRect.height
     )
   }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 }
